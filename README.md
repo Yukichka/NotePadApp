@@ -1,2 +1,0 @@
-# NotePadApp
-Created with CodeSandbox
